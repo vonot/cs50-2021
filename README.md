@@ -32,5 +32,8 @@ Aula introdutória ao mundo da ciencia da computação para quem nunca teve cont
   - Loops
  
 
-O curso é feito para quem nunca teve contato com a area de computação, é um ótimo material, com exxplicações bem didaticas e esclarecedoras. Porem, mesmo para os que ja estudam a algum tempo, é um conteudo muito valido por te oferecer uma nova visão sobre diversos conceitos.
-Particularmente gostei da explicação sobre a busca binaria, foi tudo dito de forma natural, quase como se fosse óbvio, e me fez questionar tudo o que aprendi até o momento, pois esse tipo de algoritimo que para mim ja era um pouco mais avançado, é extremamente basico e inicial para diversas pessoas, simplesmente me lembrei que tenho muito a aprender, e fez com que criasse grandes expectativas para as prosimas semanas.
+O curso é feito para quem nunca teve contato com a área de computação, é um ótimo material, com explicações bem didáticas e esclarecedoras. Porem, mesmo para os que já estudam a algum tempo, é um conteúdo muito valido por te oferecer uma nova visão sobre diversos conceitos.
+
+Particularmente gostei da explicação sobre a busca binaria, foi tudo dito de forma natural, quase como se fosse óbvio, e me fez questionar tudo o que aprendi até o momento. Esse tipo de algorítimo que eu considerava mais avançado, é extremamente básico para diversas pessoas e isso fez com que me lembrasse que tenho muito a aprender.
+
+Grandes expectativas para as próximas weeks.
