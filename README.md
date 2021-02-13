@@ -44,7 +44,7 @@ Particularmente gostei da explicação sobre a busca binaria, foi tudo dito de f
 ### [Atividade](https://github.com/vonot/cs50-2021/tree/main/week-0)
 
 - [x] Criar um projeto em Scratch;
-- [ ] O projeto tem que ter pelo menos dois sprites;
+- [x] O projeto tem que ter pelo menos dois sprites;
 - [ ] É necessário criar três scripts;
 - [ ] É necessário a utilização de ao menos um condicional;
 - [ ] É necessario a utilização de ao menos um laço de repetição;
