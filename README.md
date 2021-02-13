@@ -1,7 +1,7 @@
 # CS50x - 2021
 Exercícios realizados no  Curso de Introdução a Ciência da Computação [CS50x - 2021 (Harvard)](https://cs50.harvard.edu/x/2021/) Ministrado por: [@dmalan](https://github.com/dmalan)
 
-- [ ] [WEEK 0]()
+- [ ] [WEEK 0](#week-0----scratch)
 - [ ] WEEK 1
 - [ ] WEEK 2
 - [ ] WEEK 3
