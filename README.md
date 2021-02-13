@@ -41,9 +41,9 @@ O curso é feito para quem nunca teve contato com a área de computação, é um
 
 Particularmente gostei da explicação sobre a busca binaria, foi tudo dito de forma natural, quase como se fosse óbvio, e me fez questionar tudo o que aprendi até o momento. Esse tipo de algorítimo que eu considerava mais avançado, é extremamente básico para diversas pessoas e isso fez com que me lembrasse que tenho muito a aprender.
 
-### Atividade
+### [Atividade](https://github.com/vonot/cs50-2021/tree/main/week-0)
 
-- [ ] Criar um projeto em Scratch;
+- [x] Criar um projeto em Scratch;
 - [ ] O projeto tem que ter pelo menos dois sprites;
 - [ ] É necessário criar três scripts;
 - [ ] É necessário a utilização de ao menos um condicional;
